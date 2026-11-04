@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this artifact alongside the accompanying SACAIR 2026 paper."
+type: dataset
+title: "Supplementary material for Interface Affordances for Agent–API Reliability: A Design Science Study of Model Context Protocol Servers"
+authors:
+  - family-names: "de Villiers"
+    given-names: "John"
+    orcid: "https://orcid.org/0000-0002-9146-8180"
+version: "1.0.0"
+date-released: "2026-11-04"
+url: "https://github.com/Wook133/SACAIR_2026_Supplementary_Interface_Affordances_for_Agent-API_Reliability"
+repository-code: "https://github.com/Wook133/SACAIR_2026_Supplementary_Interface_Affordances_for_Agent-API_Reliability"
